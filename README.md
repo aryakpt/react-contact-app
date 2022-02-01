@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Contact App
+
+Storing name and email into contacts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
